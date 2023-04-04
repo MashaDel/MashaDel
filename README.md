@@ -1,16 +1,19 @@
-### Hi there 👋
+### Maria Delendik 
+[![Linkedin Badge](https://img.shields.io/badge/-Maria_Delendik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-delendik-4a831995//)](https://www.linkedin.com/in/maria-delendik-4a831995/) [![Gmail Badge](https://img.shields.io/badge/-mdelendik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelendik@gmail.com)](mailto:mdelendik@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**MashaDel/MashaDel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** stepik.org, freeCodeCamp.org :zap: | Open-Source :fire:	
+-  **Languages and skills :** Python, SQL, Flask, Bootstrap
+-  **Hobbies :** Articles & Drawing :🖌️:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** self-taught
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=MashaDel&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Maria Delendik](https://github.com/MashaDel)
