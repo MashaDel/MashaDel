@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** stepik.org, freeCodeCamp.org :zap: | Open-Source :fire:	
--  **Languages and skills :** Python, SQL, Flask, Bootstrap
+-  **Languages and skills :** Python, SQL(sqlalchemy), Flask, HTML (Bootstrap)
 -  **Hobbies :** Articles & Drawing :🖌️:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** self-taught
